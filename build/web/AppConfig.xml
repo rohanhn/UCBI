@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <device>
+        <id>1</id>
+        <AppName>VLC</AppName>
+        <AppPath>C:\Program Files (x86)\VideoLAN\VLC\vlc.exe</AppPath>
+        <AppStatus>stop</AppStatus>
+    </device>
+    
+</root>
