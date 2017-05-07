@@ -3,12 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/TungVu/MyWorkspace/NetBeansProjects/UCBI/src/java/com/ucbi/common/Controller.java</file>
-            <file>file:/C:/TungVu/MyWorkspace/NetBeansProjects/UCBI/src/java/com/ucbi/communities/servlet/StopApp.java</file>
-            <file>file:/C:/TungVu/MyWorkspace/NetBeansProjects/UCBI/src/java/com/ucbi/common/Configuration.java</file>
-            <file>file:/C:/TungVu/MyWorkspace/NetBeansProjects/UCBI/web/index.html</file>
-            <file>file:/C:/TungVu/MyWorkspace/NetBeansProjects/UCBI/src/java/com/ucbi/communities/servlet/StartApp.java</file>
-            <file>file:/C:/TungVu/MyWorkspace/NetBeansProjects/UCBI/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Workspace/Netbean/TeleMed.Client/src/java/com/ucbi/communities/servlet/StopApp.java</file>
+            <file>file:/D:/Workspace/Netbean/TeleMed.Client/src/java/com/ucbi/common/Controller.java</file>
+            <file>file:/D:/Workspace/Netbean/TeleMed.Client/src/java/com/ucbi/communities/servlet/StartApp.java</file>
+            <file>file:/D:/Workspace/Netbean/TeleMed.Client/web/AppConfig.xml</file>
+            <file>file:/D:/Workspace/Netbean/TeleMed.Client/src/java/com/ucbi/common/Constants.java</file>
         </group>
     </open-files>
 </project-private>

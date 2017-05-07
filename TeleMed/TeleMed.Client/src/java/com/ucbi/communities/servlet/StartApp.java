@@ -35,7 +35,7 @@ public class StartApp extends HttpServlet {
         String special = request.getParameter("special");
         
         if (special.length() > 0 && special.equals("123")) {
-            result = Controller.StartApp(id);
+            result = Controller.StartApp2(id);
         }
     }
 

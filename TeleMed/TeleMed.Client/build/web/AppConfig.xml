@@ -7,11 +7,21 @@ and open the template in the editor.
 
 
 <root>
-    <device>
-        <id>1</id>
-        <AppName>VLC</AppName>
-        <AppPath>C:\Program Files (x86)\VideoLAN\VLC\vlc.exe</AppPath>
-        <AppStatus>stop</AppStatus>
-    </device>
+    <devices>
+        <device>
+            <id>1</id>
+            <AppName>Debut Video Capture Software</AppName>
+            <AppPath>"C:\Program Files (x86)\NCH Software\Debut\debut.exe"</AppPath>
+            <ExecuteName>debut.exe</ExecuteName>
+            <AppStatus>stop</AppStatus>
+        </device>
+        <device>
+            <id>2</id>
+            <AppName>IDM</AppName>
+            <AppPath>"C:\Program Files (x86)\Internet Download Manager\IDMan.exe"</AppPath>
+            <ExecuteName>IDMan.exe</ExecuteName>
+            <AppStatus>stop</AppStatus>
+        </device>
+    </devices>
     
 </root>
